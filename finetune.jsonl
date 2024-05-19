@@ -1,0 +1,96 @@
+{
+    "messages": 
+    [
+        {"role": "system", "content": "You are a language model assistant that predicts the part of speech for a given word in a sentence firstly, understands the context, and then rewrites the sentence logically. You should think step-by-step, consider the context of the placeholder in the sentence and fill it with an appropriate word or phrase."}, 
+        {"role": "user", "content": "{} plays basketball in front of a wall"}, 
+        {"role": "assistant", "content": "The missing word is most likely to be replaced by a noun, noun phrase, or pronoun."},
+        {"role": "user","content": "Please rewrite the sentence according to the previous analysis."},
+        {"role": "assistant", "content": "Let the given human plays basketball in front of a wall."},
+        {"role": "assistant", "content": "Let the given people play basketball in front of a wall."}
+    ]
+}
+{
+    "messages": 
+    [
+        {"role": "system", "content": "You are a language model assistant that predicts the part of speech for a given word in a sentence firstly, understands the context, and then rewrites the sentence logically. You should think step-by-step, consider the context of the placeholder in the sentence and fill it with an appropriate word or phrase."}, 
+        {"role": "user", "content": "Kobe {} on the floor."}, 
+        {"role": "assistant", "content": "The missing word is most likely to be replaced by a verb or verb phrase."},
+        {"role": "user","content": "Please rewrite the sentence according to the previous analysis."},
+        {"role": "assistant", "content": "Kobe does the given movement on the floor."},
+        {"role": "assistant", "content": "Kobe take the given action on the floor."}
+    ]
+}
+{
+    "messages": 
+    [
+        {"role": "system", "content": "You are a language model assistant that predicts the part of speech for a given word in a sentence firstly, understands the context, and then rewrites the sentence logically. You should think step-by-step, consider the context of the placeholder in the sentence and fill it with an appropriate word or phrase."}, 
+        {"role": "user", "content": "The boy sings songs {} the wall."}, 
+        {"role": "assistant", "content": "The missing word is most likely to be replaced by a adjective."},
+        {"role": "user","content": "Please rewrite the sentence according to the previous analysis."},
+        {"role": "assistant", "content": "The boy sings songs with the given positional relationship with the wall."}
+    ]
+}
+{
+    "messages": 
+    [
+        {"role": "system", "content": "You are a language model assistant that predicts the part of speech for a given word in a sentence firstly, understands the context, and then rewrites the sentence logically. You should think step-by-step, consider the context of the placeholder in the sentence and fill it with an appropriate word or phrase."}, 
+        {"role": "user", "content": "A man in white is running {} a man in red"}, 
+        {"role": "assistant", "content": "The missing word is most likely to be replaced by a preposition or prepositional phrase."},
+        {"role": "user","content": "Please rewrite the sentence according to the previous analysis."},
+        {"role": "assistant", "content": "A man in white is running with the given positional positional relationship with a man in red."}
+    ]
+}
+{
+    "messages": 
+    [
+        {"role": "system", "content": "You are a language model assistant that predicts the part of speech for a given word in a sentence firstly, understands the context, and then rewrites the sentence logically. You should think step-by-step, consider the context of the placeholder in the sentence and fill it with an appropriate word or phrase."}, 
+        {"role": "user", "content": "John crafts a picture with {} style."}, 
+        {"role": "assistant", "content": "The missing word is most likely to be replaced by an adjective or a noun."},
+        {"role": "user","content": "Please rewrite the sentence according to the previous analysis."},
+        {"role": "assistant", "content": "John crafts a picture like the given style."},
+        {"role": "assistant", "content": "John crafts a picture similar to the given style."}
+    ]
+}
+{
+    "messages": 
+    [
+        {"role": "system", "content": "You are a language model assistant that predicts the part of speech for a given word in a sentence firstly, understands the context, and then rewrites the sentence logically. You should think step-by-step, consider the context of the placeholder in the sentence and fill it with an appropriate word or phrase."}, 
+        {"role": "user", "content": "The {} is delicious."}, 
+        {"role": "assistant", "content": "The missing word is most likely to be replaced by a noun, espespecially food."},
+        {"role": "user","content": "Please rewrite the sentence according to the previous analysis."},
+        {"role": "assistant", "content": "The given food is delicious."},
+        {"role": "assistant", "content": "The given fruit is delicious."}
+    ]
+}
+{
+    "messages": 
+    [
+        {"role": "system", "content": "You are a language model assistant that predicts the part of speech for a given word in a sentence firstly, understands the context, and then rewrites the sentence logically. You should think step-by-step, consider the context of the placeholder in the sentence and fill it with an appropriate word or phrase."}, 
+        {"role": "user", "content": "Children are playing near {}."}, 
+        {"role": "assistant", "content": "The missing word is most likely to be replaced by noun phrases,espespecially place."},
+        {"role": "user","content": "Please rewrite the sentence according to the previous analysis."},
+        {"role": "assistant", "content": "Children are playing near the given place."},
+        {"role": "assistant", "content": "Children are playing near the given people."}
+    ]
+}
+{
+    "messages": 
+    [
+        {"role": "system", "content": "You are a language model assistant that predicts the part of speech for a given word in a sentence firstly, understands the context, and then rewrites the sentence logically. You should think step-by-step, consider the context of the placeholder in the sentence and fill it with an appropriate word or phrase."}, 
+        {"role": "user", "content": "She paints {} at sunset."}, 
+        {"role": "assistant", "content": "The missing word is most likely to be replaced by a noun or a pronoun."},
+        {"role": "user","content": "Please rewrite the sentence according to the previous analysis."},
+        {"role": "assistant", "content": "She paints something shown in the picture at sunset."},
+        {"role": "assistant", "content": "She paints what is shown in the picture at sunset."}
+    ]
+}
+{
+    "messages": 
+    [
+        {"role": "system", "content": "You are a language model assistant that predicts the part of speech for a given word in a sentence firstly, understands the context, and then rewrites the sentence logically. You should think step-by-step, consider the context of the placeholder in the sentence and fill it with an appropriate word or phrase."}, 
+        {"role": "user", "content": "{} plays basketball in front of a wall"}, 
+        {"role": "assistant", "content": "The missing word is most likely to be replaced by a noun or a pronoun."},
+        {"role": "user","content": "Please rewrite the sentence according to the previous analysis."},
+        {"role": "assistant", "content": "Let this human plays basketball in front of a wall."}
+    ]
+}
