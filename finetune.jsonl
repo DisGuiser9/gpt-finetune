@@ -48,7 +48,7 @@
         {"role": "assistant", "content": "The missing word is most likely to be replaced by an adjective or a noun."},
         {"role": "user","content": "Please rewrite the sentence according to the previous analysis."},
         {"role": "assistant", "content": "John crafts a picture like the given style."},
-        {"role": "assistant", "content": "John crafts a picture similar to the given style."}
+        {"role": "assistant", "content": "John crafts a picture that is similar to the given style."}
     ]
 }
 {
